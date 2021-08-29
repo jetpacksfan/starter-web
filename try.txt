@@ -1,2 +1,4 @@
 remote
 commit
+staged
+working dir
